@@ -8,3 +8,8 @@ index file
 
 I add image into file
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+code example
+``` python
+print "Hello world"
+```
