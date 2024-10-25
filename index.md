@@ -1,7 +1,6 @@
 # This header a plain text file
 ## This 'h2' header
-#### Это тестовый заголовок
-###### New text
+### Это тестовый заголовок
 
 
 index file
@@ -13,3 +12,10 @@ code example
 ``` python
 print "Hello world"
 ```
+
+
+### task list
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
